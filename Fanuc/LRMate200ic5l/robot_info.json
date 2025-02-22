@@ -1,0 +1,42 @@
+{
+  "model_name": "LRMate200ic5l",
+  "status": "",
+  "manufacturer": {
+    "name": "Fanuc",
+    "country": "",
+    "website": ""
+  },
+  "description": "",
+  "tags": null,
+  "base_specifications": {
+    "power_source": "",
+    "control_system": ""
+  },
+  "versions": [
+    {
+      "version_name": "",
+      "version_description": "",
+      "release_date": "",
+      "specifications": {
+        "weight": 0,
+        "payload": 0,
+        "reach": 0,
+        "dimensions": {
+          "length": 0,
+          "width": 0,
+          "height": 0,
+          "unit": ""
+        }
+      },
+      "images": [
+        {
+          "url": "robot.png",
+          "type": "PNG",
+          "alt_text": "Picture of Fanuc LRMate200ic5l robot"
+        }
+      ]
+    }
+  ],
+  "created_at": "0001-01-01T00:00:00Z",
+  "updated_at": "0001-01-01T00:00:00Z"
+}
