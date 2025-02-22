@@ -1,0 +1,12 @@
+{
+  "model_name": "IRB4400",
+  "status": "",
+  "manufacturer": {
+    "name": "ABB",
+    "country": ""
+  },
+  "description": "",
+  "versions": null,
+  "created_at": "0001-01-01T00:00:00Z",
+  "updated_at": "0001-01-01T00:00:00Z"
+}
