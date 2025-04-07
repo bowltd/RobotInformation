@@ -30,8 +30,13 @@
       },
       "images": [
         {
-          "url": "robot.png",
+          "url": "https:/raw.githubusercontent.com/bowltd/RobotInformation/refs/heads/main/Softbank Robotics/Nao/robot.png",
           "type": "PNG",
+          "alt_text": "Picture of Softbank Robotics Nao robot"
+        },
+        {
+          "url": "https:/raw.githubusercontent.com/bowltd/RobotInformation/refs/heads/main/Softbank Robotics/Nao/robot.webp",
+          "type": "WEBP",
           "alt_text": "Picture of Softbank Robotics Nao robot"
         }
       ]

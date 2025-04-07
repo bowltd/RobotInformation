@@ -30,8 +30,13 @@
       },
       "images": [
         {
-          "url": "robot.png",
+          "url": "https:/raw.githubusercontent.com/bowltd/RobotInformation/refs/heads/main/Universal Robots/UR5e/robot.png",
           "type": "PNG",
+          "alt_text": "Picture of Universal Robots UR5e robot"
+        },
+        {
+          "url": "https:/raw.githubusercontent.com/bowltd/RobotInformation/refs/heads/main/Universal Robots/UR5e/robot.webp",
+          "type": "WEBP",
           "alt_text": "Picture of Universal Robots UR5e robot"
         }
       ]

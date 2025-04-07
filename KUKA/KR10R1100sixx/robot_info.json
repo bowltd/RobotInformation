@@ -30,8 +30,13 @@
       },
       "images": [
         {
-          "url": "robot.png",
+          "url": "https:/raw.githubusercontent.com/bowltd/RobotInformation/refs/heads/main/KUKA/KR10R1100sixx/robot.png",
           "type": "PNG",
+          "alt_text": "Picture of KUKA KR10R1100sixx robot"
+        },
+        {
+          "url": "https:/raw.githubusercontent.com/bowltd/RobotInformation/refs/heads/main/KUKA/KR10R1100sixx/robot.webp",
+          "type": "WEBP",
           "alt_text": "Picture of KUKA KR10R1100sixx robot"
         }
       ]

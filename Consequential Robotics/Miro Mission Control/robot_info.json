@@ -30,8 +30,13 @@
       },
       "images": [
         {
-          "url": "robot.png",
+          "url": "https:/raw.githubusercontent.com/bowltd/RobotInformation/refs/heads/main/Consequential Robotics/Miro Mission Control/robot.png",
           "type": "PNG",
+          "alt_text": "Picture of Consequential Robotics Miro Mission Control robot"
+        },
+        {
+          "url": "https:/raw.githubusercontent.com/bowltd/RobotInformation/refs/heads/main/Consequential Robotics/Miro Mission Control/robot.webp",
+          "type": "WEBP",
           "alt_text": "Picture of Consequential Robotics Miro Mission Control robot"
         }
       ]

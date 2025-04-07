@@ -30,8 +30,13 @@
       },
       "images": [
         {
-          "url": "robot.png",
+          "url": "https:/raw.githubusercontent.com/bowltd/RobotInformation/refs/heads/main/Staubli/RX160/robot.png",
           "type": "PNG",
+          "alt_text": "Picture of Staubli RX160 robot"
+        },
+        {
+          "url": "https:/raw.githubusercontent.com/bowltd/RobotInformation/refs/heads/main/Staubli/RX160/robot.webp",
+          "type": "WEBP",
           "alt_text": "Picture of Staubli RX160 robot"
         }
       ]

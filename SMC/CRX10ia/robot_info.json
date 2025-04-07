@@ -30,8 +30,13 @@
       },
       "images": [
         {
-          "url": "robot.png",
+          "url": "https:/raw.githubusercontent.com/bowltd/RobotInformation/refs/heads/main/SMC/CRX10ia/robot.png",
           "type": "PNG",
+          "alt_text": "Picture of SMC CRX10ia robot"
+        },
+        {
+          "url": "https:/raw.githubusercontent.com/bowltd/RobotInformation/refs/heads/main/SMC/CRX10ia/robot.webp",
+          "type": "WEBP",
           "alt_text": "Picture of SMC CRX10ia robot"
         }
       ]

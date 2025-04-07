@@ -30,8 +30,13 @@
       },
       "images": [
         {
-          "url": "robot.png",
+          "url": "https:/raw.githubusercontent.com/bowltd/RobotInformation/refs/heads/main/Boston Dynamics/Spot/robot.png",
           "type": "PNG",
+          "alt_text": "Picture of Boston Dynamics Spot robot"
+        },
+        {
+          "url": "https:/raw.githubusercontent.com/bowltd/RobotInformation/refs/heads/main/Boston Dynamics/Spot/robot.webp",
+          "type": "WEBP",
           "alt_text": "Picture of Boston Dynamics Spot robot"
         }
       ]

@@ -30,8 +30,13 @@
       },
       "images": [
         {
-          "url": "robot.png",
+          "url": "https:/raw.githubusercontent.com/bowltd/RobotInformation/refs/heads/main/Elephant Robotics/mycobot 280 pi gripper/robot.png",
           "type": "PNG",
+          "alt_text": "Picture of Elephant Robotics mycobot 280 pi gripper robot"
+        },
+        {
+          "url": "https:/raw.githubusercontent.com/bowltd/RobotInformation/refs/heads/main/Elephant Robotics/mycobot 280 pi gripper/robot.webp",
+          "type": "WEBP",
           "alt_text": "Picture of Elephant Robotics mycobot 280 pi gripper robot"
         }
       ]

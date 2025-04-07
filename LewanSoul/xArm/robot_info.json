@@ -30,8 +30,13 @@
       },
       "images": [
         {
-          "url": "robot.png",
+          "url": "https:/raw.githubusercontent.com/bowltd/RobotInformation/refs/heads/main/LewanSoul/xArm/robot.png",
           "type": "PNG",
+          "alt_text": "Picture of LewanSoul xArm robot"
+        },
+        {
+          "url": "https:/raw.githubusercontent.com/bowltd/RobotInformation/refs/heads/main/LewanSoul/xArm/robot.webp",
+          "type": "WEBP",
           "alt_text": "Picture of LewanSoul xArm robot"
         }
       ]

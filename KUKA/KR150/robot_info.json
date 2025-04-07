@@ -30,8 +30,13 @@
       },
       "images": [
         {
-          "url": "robot.png",
+          "url": "https:/raw.githubusercontent.com/bowltd/RobotInformation/refs/heads/main/KUKA/KR150/robot.png",
           "type": "PNG",
+          "alt_text": "Picture of KUKA KR150 robot"
+        },
+        {
+          "url": "https:/raw.githubusercontent.com/bowltd/RobotInformation/refs/heads/main/KUKA/KR150/robot.webp",
+          "type": "WEBP",
           "alt_text": "Picture of KUKA KR150 robot"
         }
       ]

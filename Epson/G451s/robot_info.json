@@ -30,8 +30,13 @@
       },
       "images": [
         {
-          "url": "robot.png",
+          "url": "https:/raw.githubusercontent.com/bowltd/RobotInformation/refs/heads/main/Epson/G451s/robot.png",
           "type": "PNG",
+          "alt_text": "Picture of Epson G451s robot"
+        },
+        {
+          "url": "https:/raw.githubusercontent.com/bowltd/RobotInformation/refs/heads/main/Epson/G451s/robot.webp",
+          "type": "WEBP",
           "alt_text": "Picture of Epson G451s robot"
         }
       ]
