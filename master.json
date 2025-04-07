@@ -1,17 +1,31 @@
 {
-  "robot_infos": [
-    "https:/raw.githubusercontent.com/bowltd/RobotInformation/refs/heads/main/ABB/IRB4400/robot_info.json",
-    "https:/raw.githubusercontent.com/bowltd/RobotInformation/refs/heads/main/ABB/IRB5400/robot_info.json",
-    "https:/raw.githubusercontent.com/bowltd/RobotInformation/refs/heads/main/ABB/IRB6600/robot_info.json"
-  ],
-  "png_images": [
-    "https:/raw.githubusercontent.com/bowltd/RobotInformation/refs/heads/main/ABB/IRB4400/robot.png",
-    "https:/raw.githubusercontent.com/bowltd/RobotInformation/refs/heads/main/ABB/IRB5400/robot.png",
-    "https:/raw.githubusercontent.com/bowltd/RobotInformation/refs/heads/main/ABB/IRB6600/robot.png"
-  ],
-  "webp_images": [
-    "https:/raw.githubusercontent.com/bowltd/RobotInformation/refs/heads/main/ABB/IRB4400/robot.webp",
-    "https:/raw.githubusercontent.com/bowltd/RobotInformation/refs/heads/main/ABB/IRB5400/robot.webp",
-    "https:/raw.githubusercontent.com/bowltd/RobotInformation/refs/heads/main/ABB/IRB6600/robot.webp"
+  "robots": [
+    {
+      "json": "https:/raw.githubusercontent.com/bowltd/RobotInformation/refs/heads/main/ABB/IRB4400/robot_info.json",
+      "png": [
+        "https:/raw.githubusercontent.com/bowltd/RobotInformation/refs/heads/main/ABB/IRB4400/robot.png"
+      ],
+      "webp": [
+        "https:/raw.githubusercontent.com/bowltd/RobotInformation/refs/heads/main/ABB/IRB4400/robot.webp"
+      ]
+    },
+    {
+      "json": "https:/raw.githubusercontent.com/bowltd/RobotInformation/refs/heads/main/ABB/IRB5400/robot_info.json",
+      "png": [
+        "https:/raw.githubusercontent.com/bowltd/RobotInformation/refs/heads/main/ABB/IRB5400/robot.png"
+      ],
+      "webp": [
+        "https:/raw.githubusercontent.com/bowltd/RobotInformation/refs/heads/main/ABB/IRB5400/robot.webp"
+      ]
+    },
+    {
+      "json": "https:/raw.githubusercontent.com/bowltd/RobotInformation/refs/heads/main/ABB/IRB6600/robot_info.json",
+      "png": [
+        "https:/raw.githubusercontent.com/bowltd/RobotInformation/refs/heads/main/ABB/IRB6600/robot.png"
+      ],
+      "webp": [
+        "https:/raw.githubusercontent.com/bowltd/RobotInformation/refs/heads/main/ABB/IRB6600/robot.webp"
+      ]
+    }
   ]
 }
