@@ -30,8 +30,13 @@
       },
       "images": [
         {
-          "url": "robot.png",
+          "url": "https:/raw.githubusercontent.com/bowltd/RobotInformation/refs/heads/main/ABB/IRB5400/robot.png",
           "type": "PNG",
+          "alt_text": "Picture of ABB IRB5400 robot"
+        },
+        {
+          "url": "https:/raw.githubusercontent.com/bowltd/RobotInformation/refs/heads/main/ABB/IRB5400/robot.webp",
+          "type": "WEBP",
           "alt_text": "Picture of ABB IRB5400 robot"
         }
       ]
