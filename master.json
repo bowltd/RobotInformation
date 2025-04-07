@@ -1,6 +1,8 @@
 {
-  "robots": [
-    {
+  "robots": {
+    "IRB4400": {
+      "name": "IRB4400",
+      "manufacturer": "ABB",
       "json": "https:/raw.githubusercontent.com/bowltd/RobotInformation/refs/heads/main/ABB/IRB4400/robot_info.json",
       "png": [
         "https:/raw.githubusercontent.com/bowltd/RobotInformation/refs/heads/main/ABB/IRB4400/robot.png"
@@ -9,7 +11,9 @@
         "https:/raw.githubusercontent.com/bowltd/RobotInformation/refs/heads/main/ABB/IRB4400/robot.webp"
       ]
     },
-    {
+    "IRB5400": {
+      "name": "IRB5400",
+      "manufacturer": "ABB",
       "json": "https:/raw.githubusercontent.com/bowltd/RobotInformation/refs/heads/main/ABB/IRB5400/robot_info.json",
       "png": [
         "https:/raw.githubusercontent.com/bowltd/RobotInformation/refs/heads/main/ABB/IRB5400/robot.png"
@@ -18,7 +22,9 @@
         "https:/raw.githubusercontent.com/bowltd/RobotInformation/refs/heads/main/ABB/IRB5400/robot.webp"
       ]
     },
-    {
+    "IRB6600": {
+      "name": "IRB6600",
+      "manufacturer": "ABB",
       "json": "https:/raw.githubusercontent.com/bowltd/RobotInformation/refs/heads/main/ABB/IRB6600/robot_info.json",
       "png": [
         "https:/raw.githubusercontent.com/bowltd/RobotInformation/refs/heads/main/ABB/IRB6600/robot.png"
@@ -27,5 +33,5 @@
         "https:/raw.githubusercontent.com/bowltd/RobotInformation/refs/heads/main/ABB/IRB6600/robot.webp"
       ]
     }
-  ]
+  }
 }
